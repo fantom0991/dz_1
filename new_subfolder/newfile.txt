@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a new file is newbrach
+=======
+ASDASDAS
+Conflicting change in master
+>>>>>>> master
